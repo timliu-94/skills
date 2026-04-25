@@ -51,7 +51,7 @@ python download_url_article.py --url "<URL>"
 summarize skill 生成标题和简明摘要。
 
 ### 4. 判断主题
-判断主题分类，选择。
+判断主题分类，选择本地obsidian已有的目录，不得自己新建目录，如果不确定放置在00-NotReady目录下。
 
 ### 5. 写入笔记
 按照固定模板生成 Markdown 文件，并写入对应 Obsidian 目录。
