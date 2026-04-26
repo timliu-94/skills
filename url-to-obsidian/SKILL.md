@@ -108,7 +108,7 @@ PYTHONPATH="scripts/download_zhihu" python3 -c 'import os, sys; from download_zh
 
 ## 普通 HTML 索引笔记模板
 
-非知乎 URL 如需生成索引笔记，使用以下模板：
+生成索引笔记，使用以下模板：
 
 ```markdown
 ---
@@ -125,7 +125,7 @@ tags:
 
 URL: <原始链接>
 
-HTML 归档：<对应 HTML 的 Obsidian 内部链接>
+源文件归档：<对应 HTML 或 Markdown 的 Obsidian 内部链接>
 ```
 
 ## 失败处理
